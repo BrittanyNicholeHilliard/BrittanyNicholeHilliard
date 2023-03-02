@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Brittany.</h1>
 <h3 align="center">a full stack web developer in Las Vegas, NV.</h3>
 
-- 👨‍💻 All of my projects are available at [on my repo page.](on my repo page.)
+I've always known that I wanted to work in the tech industry. I started learning how to utilize Adobe products for graphic and basic web design projects when I was younger, and recently decided to broaden my horizons and expand my skillset to include HTML, JavaScript, CSS among others.
+
+🛠️ Tech Stack:
+Front End: React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, JavaScript, HTML, CSS
+Back End: GitHub, VS Code, Vercel, SQLiteStudio
+Additional: Debugging, Deployment, Database Management, Team Leadership, Cloud Technology
+
+- 👨‍💻 All of my projects are available on my repo page.
+
+
 
 - 📫 How to reach me **bnicholehilliard@gmail.com**
 
